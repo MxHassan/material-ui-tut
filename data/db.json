@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Money test",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eveniet qui vitae inventore ipsam magni modi autem eligendi quibusdam totam iste, natus nisi, quisquam voluptatem minima nihil vero facere voluptatibus.\n",
+      "category": "Money",
+      "id": 5
+    },
+    {
+      "title": "note work",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\n",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "note reminder",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\n",
+      "category": "reminders",
+      "id": 8
+    },
+    {
+      "title": "note Money",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\n",
+      "category": "Money",
+      "id": 9
+    },
+    {
+      "title": "note todos",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\n",
+      "category": "todos",
+      "id": 10
+    },
+    {
+      "title": "note work",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident iure saepe, possimus placeat perferendis facilis dolores, temporibus eius sunt, vel ipsa. Fugit, id! Quam similique sit, at a eaque iusto.\n",
+      "category": "work",
+      "id": 11
+    }
+  ]
+}
